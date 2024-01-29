@@ -1,0 +1,15 @@
+/Users/johnfranzese/Desktop/repos/Iteration-Statements-Exercise/IterationStatements/obj/Debug/net6.0/IterationStatementsExercise.csproj.AssemblyReference.cache
+/Users/johnfranzese/Desktop/repos/Iteration-Statements-Exercise/IterationStatements/obj/Debug/net6.0/IterationStatementsExercise.GeneratedMSBuildEditorConfig.editorconfig
+/Users/johnfranzese/Desktop/repos/Iteration-Statements-Exercise/IterationStatements/obj/Debug/net6.0/IterationStatementsExercise.AssemblyInfoInputs.cache
+/Users/johnfranzese/Desktop/repos/Iteration-Statements-Exercise/IterationStatements/obj/Debug/net6.0/IterationStatementsExercise.AssemblyInfo.cs
+/Users/johnfranzese/Desktop/repos/Iteration-Statements-Exercise/IterationStatements/obj/Debug/net6.0/IterationStatementsExercise.csproj.CoreCompileInputs.cache
+/Users/johnfranzese/Desktop/repos/Iteration-Statements-Exercise/IterationStatements/bin/Debug/net6.0/IterationStatementsExercise
+/Users/johnfranzese/Desktop/repos/Iteration-Statements-Exercise/IterationStatements/bin/Debug/net6.0/IterationStatementsExercise.deps.json
+/Users/johnfranzese/Desktop/repos/Iteration-Statements-Exercise/IterationStatements/bin/Debug/net6.0/IterationStatementsExercise.runtimeconfig.json
+/Users/johnfranzese/Desktop/repos/Iteration-Statements-Exercise/IterationStatements/bin/Debug/net6.0/IterationStatementsExercise.dll
+/Users/johnfranzese/Desktop/repos/Iteration-Statements-Exercise/IterationStatements/bin/Debug/net6.0/IterationStatementsExercise.pdb
+/Users/johnfranzese/Desktop/repos/Iteration-Statements-Exercise/IterationStatements/obj/Debug/net6.0/IterationStatementsExercise.dll
+/Users/johnfranzese/Desktop/repos/Iteration-Statements-Exercise/IterationStatements/obj/Debug/net6.0/refint/IterationStatementsExercise.dll
+/Users/johnfranzese/Desktop/repos/Iteration-Statements-Exercise/IterationStatements/obj/Debug/net6.0/IterationStatementsExercise.pdb
+/Users/johnfranzese/Desktop/repos/Iteration-Statements-Exercise/IterationStatements/obj/Debug/net6.0/IterationStatementsExercise.genruntimeconfig.cache
+/Users/johnfranzese/Desktop/repos/Iteration-Statements-Exercise/IterationStatements/obj/Debug/net6.0/ref/IterationStatementsExercise.dll

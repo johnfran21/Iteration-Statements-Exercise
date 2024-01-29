@@ -7,5 +7,5 @@ build_property.InvariantGlobalization =
 build_property.PlatformNeutralAssembly = 
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
-build_property.RootNamespace = IterationStatements
+build_property.RootNamespace = IterationStatementsExercise
 build_property.ProjectDir = /Users/johnfranzese/Desktop/repos/Iteration-Statements-Exercise/IterationStatements/

@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "/Users/johnfranzese/Desktop/repos/Iteration-Statements-Exercise/IterationStatements/IterationStatements.csproj": {}
+    "/Users/johnfranzese/Desktop/repos/Iteration-Statements-Exercise/IterationStatements/IterationStatementsExercise.csproj": {}
   },
   "projects": {
-    "/Users/johnfranzese/Desktop/repos/Iteration-Statements-Exercise/IterationStatements/IterationStatements.csproj": {
+    "/Users/johnfranzese/Desktop/repos/Iteration-Statements-Exercise/IterationStatements/IterationStatementsExercise.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/johnfranzese/Desktop/repos/Iteration-Statements-Exercise/IterationStatements/IterationStatements.csproj",
-        "projectName": "IterationStatements",
-        "projectPath": "/Users/johnfranzese/Desktop/repos/Iteration-Statements-Exercise/IterationStatements/IterationStatements.csproj",
+        "projectUniqueName": "/Users/johnfranzese/Desktop/repos/Iteration-Statements-Exercise/IterationStatements/IterationStatementsExercise.csproj",
+        "projectName": "IterationStatementsExercise",
+        "projectPath": "/Users/johnfranzese/Desktop/repos/Iteration-Statements-Exercise/IterationStatements/IterationStatementsExercise.csproj",
         "packagesPath": "/Users/johnfranzese/.nuget/packages/",
         "outputPath": "/Users/johnfranzese/Desktop/repos/Iteration-Statements-Exercise/IterationStatements/obj/",
         "projectStyle": "PackageReference",
